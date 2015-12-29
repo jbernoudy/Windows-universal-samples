@@ -1,6 +1,6 @@
 <!---
   category: AudioVideoAndCamera 
-  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620517&clcid=0x409
+  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620517
 --->
 
 # High dynamic range sample
@@ -32,6 +32,10 @@ This sample also implements a custom UI to better simulate the experience that a
 [Capture photos and video with MediaCapture](https://msdn.microsoft.com/library/windows/apps/mt243896)
 
 [Media capture using capture device](https://code.msdn.microsoft.com/windowsapps/Media-Capture-Sample-adf87622)
+
+[High Dynamic Range photo capture](http://go.microsoft.com/fwlink/?LinkId=627230)
+
+[Using the Scene Analysis effect](http://go.microsoft.com/fwlink/?LinkId=627231)
 
 **Reference**
 
